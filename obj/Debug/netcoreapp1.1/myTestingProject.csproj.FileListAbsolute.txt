@@ -1,0 +1,8 @@
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\bin\Debug\netcoreapp1.1\myTestingProject.deps.json
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\bin\Debug\netcoreapp1.1\myTestingProject.runtimeconfig.json
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\bin\Debug\netcoreapp1.1\myTestingProject.runtimeconfig.dev.json
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\bin\Debug\netcoreapp1.1\myTestingProject.dll
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\bin\Debug\netcoreapp1.1\myTestingProject.pdb
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\obj\Debug\netcoreapp1.1\myTestingProject.AssemblyInfo.cs
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\obj\Debug\netcoreapp1.1\myTestingProject.dll
+C:\Users\Riccardo\Desktop\C# Projects\myTestingProject\obj\Debug\netcoreapp1.1\myTestingProject.pdb
